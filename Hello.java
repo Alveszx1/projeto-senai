@@ -3,7 +3,7 @@ public class Hello {
 		
 		system.out.println("Olá, galera!!");
 		system.out.println("Estamos no SENAI!!");
-		system.out.println("E o GIT funciona");
+		system.out.println("E o GIT funciona!!!!");
 
 
 		
